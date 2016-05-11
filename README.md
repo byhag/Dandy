@@ -1,7 +1,9 @@
 # Dandy
 *a seed's escape from a concrete jungle*
 
-<img src = https://github.com/byhag/Dandy/edit/master/Dandy/Assets/Images/gamestart.jpg>
+<p align="center">
+  <img src="https://github.com/byhag/Dandy/blob/master/Dandy/Assets/Images/gamestart.jpg" align="middle" width="600" height="400"/>
+</p>
 
 ### Summary
 The game will be an endless side-scroller with the objective to get the highest score possible each play. The player controls the seed that is blown away from a dandelion that grew through the cracks of a sidewalk. The game will have very simple controls and control similar to Jetpack Joyride but in reverse. A tap or click will cause the seed to fall faster. The player tries to navigate the air trying to ride gusts that will lift the seed higher while avoiding things like birds and other gusts that will knock the seed down onto the concrete. The objective is to get the seed to patches of grass to cause more dandelions to grow and the game will end when the seed hits the concrete.
